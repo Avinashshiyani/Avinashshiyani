@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering Mern Stack and building a dashboard Project.<br>👯 I’m looking to collaborate on MERN stack and front-end projects .<br>🤝 I’m looking for help with advanced React.js and dashboard design.<br>🌱 I’m currently learning MERN stack development.<br>💬 Ask me about MERN stack, front-end development, and Tailwind CSS.<br>⚡ Fun fact: I love converting Figma designs to Tailwind CSS!
+🔭 I’m currently working on mastering Full Stack Web Development  and building a Great Project.<br>👯 I’m looking to collaborate on MERN stack and front-end projects .<br>🤝 I’m looking for help with advanced React.js and dashboard design.<br>🌱 I’m currently learning MERN stack development.<br>💬 Ask me about MERN stack, front-end development, and Tailwind CSS.<br>⚡ Fun fact: I love converting Figma designs to Tailwind CSS!
 
 
 ## 🌐 Socials:
