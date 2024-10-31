@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering Full Stack Web Development  and building a Great Project.<br>👯 I’m looking to collaborate on Full stack and front-end projects .<br>🤝 I’m looking for help with advanced React.js and web Applications<br>🌱 I’m currently learning Full stack development.<br>💬 Ask me about Full stack, front-end development, and Tailwind CSS.<br>⚡ Fun fact: I love converting Figma designs to Tailwind CSS!
+🔭 I’m currently working on mastering Full Stack Web Development  and building a Great Project.<br>👯 I’m looking to collaborate on Full stack and  projects .<br>🤝 I’m looking for help with advanced React.js and web Applications<br>🌱 I’m currently learning Full stack development.<br>💬 Ask me about Full stack, front-end development, and Tailwind CSS.<br>⚡ Fun fact: I love converting Figma designs to Tailwind CSS!
 
 
 ## 🌐 Socials:
